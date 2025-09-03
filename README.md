@@ -85,3 +85,10 @@ To https://github.com/romka-chev for given me the opportunity to fork his projec
 If some problems occurred, you can create [issue](https://github.com/goehrings/yii2-swiper/issues).
 
 Thank you for attention.
+
+## Credits ##
+
+https://it-solutions-goehring.de
+
+https://computerservice-goehring.de/
+
